@@ -12,6 +12,7 @@
 </table>
 
 ---
+---
 
 ## 🎓 Formación Académica
 
