@@ -1,5 +1,5 @@
 # 🧑‍💼 Portafolio Profesional - Wilson Huamán Estrada
-
+./perfil.jpg
 Bienvenidos a mi portafolio profesional. Soy **Wilson Huamán Estrada**, Técnico Profesional en Computación e Informática, con sólida experiencia en el sector público y privado, y actualmente estudiante de **Ingeniería de Sistemas e Informática**.
 
 ---
