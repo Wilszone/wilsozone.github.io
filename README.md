@@ -1,7 +1,7 @@
 # 👨‍💻 WILSZONE
 
-Bienvenido/a a mi portafolio profesional.
-Soy Técnico estudiente de la carrera de Ing. de Sistemas e Informática con experiencia en la gestión pública y formación continua en tecnologías de la información. Este repositorio reúne una selección de proyectos personales, académicos y profesionales que demuestran mis habilidades técnicas y mi compromiso con el desarrollo tecnológico orientado al servicio público.
+Bienvenido/a a mi portafolio.
+Soy Técnico y estudiente de la carrera de Ing. de Sistemas e Informática con experiencia en la gestión pública y formación continua en tecnologías de la información. Este repositorio reúne una selección de proyectos personales, académicos y profesionales que demuestran mis habilidades técnicas y mi compromiso con el desarrollo tecnológico orientado al servicio público.
 
 ---
 
