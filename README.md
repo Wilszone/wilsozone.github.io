@@ -6,7 +6,7 @@
       <img src="./perfil.jpg" alt="Foto de Wilson Huamán Estrada" width="100px" style="border-radius: 10px;">
     </td>
     <td>
-      Bienvenidos a mi portafolio profesional en GitHub. Soy <strong>Wilson Huamán Estrada</strong>, Técnico Profesional en Computación e Informática, con sólida experiencia en el sector público y privado, y actualmente estudiante de <strong>Ingeniería de Sistemas e Informática</strong>.
+      Bienvenidos a mi portafolio profesional. Soy <strong>Wilson Huamán Estrada</strong>, Técnico Profesional en Computación e Informática, con sólida experiencia en el sector público y privado, y actualmente estudiante de <strong>Ingeniería de Sistemas e Informática</strong>.
     </td>
   </tr>
 </table>
