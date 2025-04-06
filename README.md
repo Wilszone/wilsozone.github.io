@@ -4,7 +4,7 @@
     <td width="120px">
       <img src="./perfil.jpg" alt="Foto de Wilson Huamán Estrada" width="100px" style="border-radius: 10px;">
     </td>
-    <td valign="top">
+    <td valign="middle">
       Bienvenidos a mi portafolio profesional en GitHub. Soy <strong>Wilson Huamán Estrada</strong>, Técnico Profesional en Computación e Informática con experiencia en el sector público y privado, y actualmente estudiante de <strong>Ingeniería de Sistemas e Informática</strong> en la Universidad Continental.
     </td>
   </tr>
